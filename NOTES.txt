@@ -1,0 +1,14 @@
+instances:
+    // emptiness
+    wall
+    knight
+    zombie
+    princess == exit
+    dragon
+    key, door
+    portals
+    projectile (for dragon)
+    chicken
+    box
+
+
