@@ -4,9 +4,9 @@
 #include "GameEngine.h"
 
 int main() {
+    //trying to push it from collaborator account, stop fucking with me
     GameEngine engine;
     Error result = engine.run();
-
     switch (result) {
         case Error::NONE:
             std::cout << "Just closed?.." << std::endl;
